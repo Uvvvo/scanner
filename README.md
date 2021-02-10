@@ -9,9 +9,9 @@ Don't forget to follow me
 1. <code>apt update && apt upgrade -y</code>
 2. <code>pkg install git python python2 nmap -y</code> 
 3. <code>pip install requests click</code>
-4. pip2 install requests click</code>
-5. pip install colorama click</code>
-6. pip2 install colorama click</code>
+4. <code>pip2 install requests click</code>
+5. <code>pip install colorama click</code>
+6. <code>pip2 install colorama click</code>
 7. <code>git clone https://github.com/kanekikon/scanner</code>
 8. <code>cd scanner</code>
 9. <code>python2 scanner.py</code><br><br>
