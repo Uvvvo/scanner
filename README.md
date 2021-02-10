@@ -8,13 +8,11 @@ Don't forget to follow me
 # Installing
 1. <code>apt update && apt upgrade -y</code>
 2. <code>pkg install git python python2 nmap -y</code> 
-3. <code>pip install requests </code>
-4. <code>pip2 install requests </code>
-5. <code>pip install colorama </code>
-6. <code>pip2 install colorama </code>
-7. <code>git clone https://github.com/kanekikon/scanner</code>
-8. <code>cd scanner</code>
-9. <code>python2 scanner.py</code><br><br>
+3. <code>pip2 install requests </code>
+4. <code>pip2 install colorama </code>
+5. <code>git clone https://github.com/kanekikon/scanner</code>
+6. <code>cd scanner</code>
+7. <code>python2 scanner.py</code><br><br>
 
 
 #### Do not use this tool for personal purposes
