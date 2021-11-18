@@ -2,7 +2,7 @@
 A new scanner tool is the shortcut nmap commands with a simple interface
 I do not bear legal responsibility !!
 Don't forget to follow me
-#### Follow all new on [Telegram](https://t.me/STITI)
+#### Follow all new on [Telegram](https://t.me/SITITI)
 <a href="https://ibb.co/DrbBMp2"><img src="https://i.ibb.co/phPHKyF/scanner.jpg" alt="scanner" border="0"></a>
 
 # Installing
