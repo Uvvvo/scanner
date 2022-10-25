@@ -1,6 +1,6 @@
 
-# Decompiled by #SSX3l | Hussain Yacoub
-# Github : https://github.com/kanekikon
+# Decompiled by #CTlTl | Hussain Yacoub
+# Github : https://github.com/uvvvo
 #---------------------------------------
 
 import os
@@ -39,7 +39,7 @@ def logo():
     print '        \__ \| (__| (_| || | | || | | ||  __/| |   '
     print '        |___/ \___|\__,_||_| |_||_| |_| \___||_|  v1.0 '
     print ''
-    print '  \x1b[1;95m -:;-\x1b[1;97m I do not tolerate bad use , written By @SSX3l \x1b[1;95m-:;-'
+    print '  \x1b[1;95m -:;-\x1b[1;97m I do not tolerate bad use , written By @CTlTl \x1b[1;95m-:;-'
     print ' '
 
 
